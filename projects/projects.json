@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Detecting Malicious Social Bots Based On click stream Sequences",
+    "desc": "Fully fledged web application which it detects the malicious words and blocks the user.",
+    "image": "malicious",
+    "category": "Web application",
+    "links": {
+      "view": "https://github.com/mangilipellysai/Detecting-Malicious-Social-Bots-based-on-click-stream-sequences/blob/main/.classpath",
+      "code": "https://github.com/mangilipellysai/Detecting-Malicious-Social-Bots-based-on-click-stream-sequences"
+    }
+  },
+  {
+    "name": "Artificial Intelligence In prediction Of Post Mortem Intervel",
+    "desc": "This Project was done by the machine learning algorithm to prredict the postmortem interval ",
+    "image": "ai",
+    "category": "web application",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/weatherly-android"
+    }
+  },
+  {
+    "name": "Wekipedia Search Application",
+    "desc": "Wikipedia search application is a search-based application that uses a search engine to provide information based on a user's query",
+    "image": "wikipedia1",
+    "category": "web applicstion",
+    "links": {
+      "view": "wekipedia1.ccbp.tech",
+      "code": "https://github.com/mangilipellysai/Wikipedia-Search-Application"
+    }
+  },
+  {
+    "name": "TODO Application",
+    "desc": "It was the Application , which the user schedule the daily activies",
+    "image": "to-do-list-apps",
+    "category": "Dynamic web applicstion",
+    "links": {
+      "view": "https://mangilipellysai.github.io/Todo-List/",
+      "code": "https://github.com/mangilipellysai/Todo-List"
+    }
+  },
+  {
+    "name": "Food Munch Responsive Website",
+    "desc": "It is the Responsive website which it support the small screen devices to extra large devices",
+    "image": "foodwebsite",
+    "category": "Responsive web applicstion",
+    "links": {
+      "view": "saifooddmunch.ccbp.tech",
+      "code": "https://saifooddmunch.ccbp.tech/"
+    }
+  },
+  {
+    "name": "Static Website",
+    "desc": "It was one of my first project basic project",
+    "image": "templeweb",
+    "category": "static website",
+    "links": {
+      "view": "sai1819.ccbp.tech",
+      "code": "sai1819.ccbp.tech"
+    }
+  }
+]
